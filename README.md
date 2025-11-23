@@ -17,11 +17,11 @@ With **CMPA™**, it is possible to collect and analyze the following informatio
 * Continuous **feedback and enrichment** of the intelligence base with **new phishing attack strategies**
 
 # key results
-* Visibilidade em tempo real do atual do ecosistema de ameaças de phishing para sua empresa
-* Compreender quais são as áreas com maior índice de de recebimento de campanhas de phishing
-* Possuir índices das estratégias de ataques phishing e engenharia social empregadas
-* Visibilidade dos tipos de malware que estão identificados nas campanhas
-* Possibilidade do time de Threat Intelligence criar relatórios para os times mitigarem as fraquezas iddentificadas no ecosistema de ameaças
+* Real-time visibility into the current phishing threat ecosystem for your company
+* Understand which areas are most likely to receive phishing campaigns
+* Have indexes of phishing attack and social engineering strategies employed
+* Visibility of the types of malware that are identified in campaigns
+* Possibility for the Threat Intelligence team to create reports for teams to mitigate identified weaknesses in the threat ecosystem
 
 
 # Documentation 
@@ -41,7 +41,7 @@ Authors
 **CMPA™** is a Open Framework designed and developed by Rafael Callá.
 
 # Contact
-Visite nosso site: [www.phishtacts.org](http://phishtatics.org/)
+Visit our website: [www.phishtacts.org](http://phishtatics.org/)
 
 
 
