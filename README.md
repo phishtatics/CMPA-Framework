@@ -1,5 +1,8 @@
 
 # Introduction
+![A8D2744A-4ACA-4A50-A114-2FC93F4D599A](https://github.com/user-attachments/assets/cdb73bc0-7cc5-4f20-b4da-d057a9f3304d)
+
+
 Threat actors employ sophisticated phishing strategies, such as Phishing-as-a-Service models, artificial intelligence,
 reconnaissance, and even insiders. Threat Intelligence teams must develop robust strategies to handle such scenarios.
 The **CMPA™ (Counterintelligence Methodology for Phishing Attacks** is a Open Framework that empowers Cyber Threat Intelligence teams to map, analyze, and holistically understand their threat ecosystems, with a particular focus on phishing campaigns — one of the main vectors of cyber threats.
